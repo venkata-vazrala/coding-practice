@@ -1,0 +1,12 @@
+[submodule "cpp-codes"]
+	path = cpp-codes
+	url = https://github.com/venkata-vazrala/cpp-codes.git
+[submodule "python-codes"]
+	path = python-codes
+	url = https://github.com/gunavenkat/python-codes.git
+[submodule "rust_practice"]
+	path = rust_practice
+	url = https://github.com/venkata-vazrala/rust_practice.git
+[submodule "knowledge-base"]
+	path = knowledge-base
+	url = https://github.com/gunavenkat/knowledge-base.git
