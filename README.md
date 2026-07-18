@@ -5,9 +5,9 @@ An umbrella index of general coding-practice repos, grouped by language. Each is
 | Project | Language | Description |
 |---|---|---|
 | [cpp-codes](https://github.com/venkata-vazrala/cpp-codes) | C++ | Practice + DCU coursework (OOP inventory system) |
-| [python-codes](https://github.com/gunavenkat/python-codes) | Python | Practice + Django REST API, Splitwise export, utilities |
+| [python-codes](https://github.com/venkata-vazrala/python-codes) | Python | Practice + Django REST API, Splitwise export, utilities |
 | [rust_practice](https://github.com/venkata-vazrala/rust_practice) | Rust | Rustlings, DCU coursework, small Rust projects |
-| [knowledge-base](https://github.com/gunavenkat/knowledge-base) | — | Personal notes/reference repo |
+| [knowledge-base](https://github.com/venkata-vazrala/knowledge-base) | — | Personal notes/reference repo |
 
 ## Clone with all submodules
 
